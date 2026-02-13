@@ -6,13 +6,6 @@
 
 Projeto completo de Machine Learning para diagnóstico preditivo de câncer de mama utilizando KNN e ajuste de hiperparâmetros com otimização de recall e ajuste de threshold.
 
-Desenvolver um modelo capaz de classificar tumores como:
-
-- **Maligno (1)**
-- **Benigno (0)**
-
-Priorizando **Recall**, pois em contexto médico o erro mais crítico é classificar um tumor maligno como benigno (Falso Negativo).
-
 ---
 
 ## 🎯 Objetivo do Projeto
@@ -90,9 +83,9 @@ Este projeto foi desenvolvido utilizando as seguintes ferramentas e bibliotecas:
 ---
 
 ## 🚀 Por que este projeto é relevante?
-✅ Demonstra domínio do processo de **Análise Exploratória de Dados**  
-✅ Aplica conceitos de Data Science em um **cenário real de negócio**  
-✅ Mostra capacidade de transformar dados em **insights acionáveis**  
+✅ Demonstra domínio do biblioteca Python **Scikit-Learn**  
+✅ Aplica conceitos de Machine Learning em um **Cenário Real de Medicina**  
+✅ Mostra capacidade de ajuste de hiperparâmetros e **Validação de um Modelo de Classificação**  
 
 ---
 
